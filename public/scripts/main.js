@@ -26,10 +26,11 @@ function handleClick(event, check = true) {
     const text = check ? "Excluir" : "Marcar como lida"
     const slug = check ? "delete" : "check"
 
-    const roomId = document.querySelector('#room-id').CDATA_SECTION_NODE.id
+    const roomId = document.querySelector('#room-id').dataset.id
+    const questionId = event.target.dataset.id
 
     const form = document.querySelector(".modal form")
-    form.setAttribute("action", `/room/${roomId}/:question/${slug}`)
+    form.setAttribute("action", `/question/${roomId}/${questionId}/${slug}`)
 
     modalTitle.innerHTML = check ? "Excluir pergunta" : "Marcar como lida"
     modalDescription.innerHTML = `Tem certeza que deseja ${text.toLowerCase()} esta pergunta?`

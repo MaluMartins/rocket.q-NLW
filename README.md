@@ -10,6 +10,6 @@
 </p>
 
 <h2 id="projeto">O evento e o projeto</h2>
-<p>O evento NLW Together é um evento de programação organizado pela @Rocketseat, o evento contém
+<p>O evento NLW Together é um evento de programação organizado pela Rocketseat, o evento contém
 várias opções de trilhas (de tecnologias) para escolher. A trilha escolhida por mim foi a Discover, que visa
 desenvolver uma aplicação utilizando os fundamentos de desenvolvimento Front-end e Back-end</p>

@@ -27,3 +27,8 @@ Decidi fazer mudanças no design, alterando as cores para deixar o projeto mais 
 <h2 id="tecnologias">Tecnologias</h2>
 <p>As tecnologias utilizadas foram: </p>
 <p>• Node.js</p>
+
+<h2 id="autor">A autora</h2>
+<p>Sou a Malu Martins, estudante de programação e freelancer. Participo da NLW já há algum tempo e escolhi
+a trilha Discover dessa vez! Sou apaixonada por tecnologia e acredito que, se usada bem, pode ser um grande
+auxílio para a vida das pessoas.</p>

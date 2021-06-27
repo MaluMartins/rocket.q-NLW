@@ -3,9 +3,9 @@
 
 <p align="center">
  <a href="#projeto">O evento e projeto</a> •
- <a href="#apresentacao">Apresentação</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#apresentacao">Apresentação</a> •  
  <a href="#extra">A milha extra</a> •
+ <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -19,3 +19,10 @@ desenvolver uma aplicação utilizando os fundamentos de desenvolvimento Front-e
 <h4>Criar sala</h4>
 <h4>Sala</h4>
 <h4>Ações</h4>
+
+<h2 id="extra">A milha extra</h2>
+A milha extra é adicionar ou modificar algo no projeto inicial.
+Decidi fazer mudanças no design, alterando as cores para deixar o projeto mais individual!</p>
+
+<h2 id="tecnologias">Tecnologias</h2>
+<p>As tecnologias utilizadas foram: </p>

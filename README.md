@@ -26,3 +26,8 @@ Decidi fazer mudanças no design, alterando as cores para deixar o projeto mais 
 
 <h2 id="tecnologias">Tecnologias</h2>
 <p>As tecnologias utilizadas foram: </p>
+<ul>
+ <il>Node.js</il>
+ <il>Javascript</il>
+ <il>EJS</il>
+</ul>
